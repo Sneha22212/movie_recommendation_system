@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+.CFUserTextEncoding
+
+# User configs and hidden directories
+.bash_history
+.zsh_history
+.conda/
+.anaconda/
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.idlerc/
+.local/
+.streamlit/
+.matplotlib/
+
+# Common files to ignore
+*.pkl
+*.jpg
+*.png
+*.csv
+*.pyc
+venv/
+__pycache__/
+
